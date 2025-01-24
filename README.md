@@ -25,7 +25,7 @@ ChatGPT：
 | conteúdo | Faça um texto para ebook , com foco em Inteligência Artifical no setor bancário, listando os principais melhorias com exemplos reais {REGRAS} Explique sempre de uma maneira simples Deixe o texto enxuto, Sempre traga exemplos da CAIXA ECONÔMICA FEDERAL em contextos reais , sempre deixe um título sugestivo por tópico |
 
 
-Leoardo.AI：
+MidJourney：
 
 |  Ação  | prompt                                                                                 |
 | :----: | -------------------------------------------------------------------------------------- |
