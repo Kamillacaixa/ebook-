@@ -6,7 +6,7 @@
 Projeto com o objetivo de gerar um ebook digital com as facilidades das ferramentas de IA. todos os prompts
 seguem abaixo.
 
-<EBOOK - A ERA DA IA.pdf> 📕Clique aqui para ler</a>
+
 
 ## 💻 Tecnologias utilizadas no projeto
 
@@ -29,7 +29,7 @@ Leoardo.AI：
 
 |  Ação  | prompt                                                                                 |
 | :----: | -------------------------------------------------------------------------------------- |
-| título | Imagine a inteligencia artificial nos bancos
+| título | Imagine a revlução da inteligencia artificial no setor bancário
 ## ✨ Features
 
 - Conteúdo gerado via ChatGPT
